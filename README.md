@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&text=Dewi%20Rahmawati&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&text=Dewi%20Rahmawati&fontSize=50&fontColor=pink&animation=fadeIn"/>
 
 # 🌸 Hi, I'm Dewi Rahmawati
 
