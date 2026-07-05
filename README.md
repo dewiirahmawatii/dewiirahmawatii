@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dewiirahmawatii/dewiirahmawatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dewi Rahmawati
 
-Here are some ideas to get you started:
+### 🌸 Informatics Student | Backend Developer | Laravel Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Backend+Developer;Laravel+Developer;Always+Learning+New+Things"/>
+
+</div>
+
+---
+
+## 👩 About Me
+
+🎓 Informatics Student
+
+🌱 Currently learning Laravel
+
+💻 Interested in Backend Development
+
+📍 Indonesia
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Udewiirahmawatii&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=dewiirahmawatii&theme=tokyonight)
+
+---
+
+## 💻 Most Used Language
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dewirahmawatii&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+- Instagram
+- LinkedIn
+- Email
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
