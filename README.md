@@ -1,30 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm Dewi Rahmawati
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=Dewi%20Rahmawati&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-### 🌸 Informatics Student | Backend Developer | Laravel Enthusiast
+# 🌸 Hi, I'm Dewi Rahmawati
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Backend+Developer;Laravel+Developer;Always+Learning+New+Things"/>
+### 💜 Informatics Student • Backend Developer • Laravel Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Backend+Developer;Building+Useful+Web+Applications;Always+Learning+Something+New+✨"/>
 
 </div>
 
 ---
 
-## 👩 About Me
+## 🌷 About Me
 
 🎓 Informatics Student
 
-🌱 Currently learning Laravel
+💻 Interested in Backend Development & Web Development
 
-💻 Interested in Backend Development
+🌱 Currently learning **Laravel**, **REST API**, and **UI/UX Design**
 
-📍 Indonesia
+☕ I enjoy turning ideas into useful and beautiful web applications.
+
+📍 Indonesia 🇮🇩
+
+> *"Keep learning, keep building, and trust the process."* 💜
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,vscode,figma"/>
 
@@ -32,30 +38,60 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌼 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Udewiirahmawatii&show_icons=true&theme=tokyonight)
+### 🌸 Toko Skincare
+Laravel-based e-commerce website with authentication, product management, and shopping features.
 
----
+### 🚨 Satgas PPKS
+Reporting system with a modern UI/UX focused on accessibility and ease of use.
 
-## 🔥 GitHub Streak
+### ☕ Cafe Website
+Responsive landing page with a clean and elegant design.
 
-![](https://streak-stats.demolab.com?user=dewiirahmawatii&theme=tokyonight)
-
----
-
-## 💻 Most Used Language
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dewirahmawatii&layout=compact&theme=tokyonight)
+### 📚 Laravel CRUD
+Simple CRUD application using Laravel and MySQL.
 
 ---
 
-## 🌐 Connect
+## 🌱 Currently Learning
 
-- Instagram
-- LinkedIn
-- Email
+- Laravel
+- REST API
+- Database Design
+- UI/UX
+- Git & GitHub
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile!
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dewiirahmawatii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dewi_rahmmawati">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:dewiirahmawatiiii@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dewi-rahmawati">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌸 Thank you for visiting my profile!
+
+✨ *"Code with passion, learn with purpose."*
+
+</div>
