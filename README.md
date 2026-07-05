@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&text=Dewi%20Rahmawati&fontSize=50&fontColor=pink&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,25,26&text=Dewi%20Rahmawati&fontSize=50&fontColor=ffff&animation=fadeIn"/>
 
 # 🌸 Hi, I'm Dewi Rahmawati
 
 ### 💗 Backend Developer • Informatics Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Backend+Developer;Laravel+Enthusiast;Always+Learning+✨"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=F8BBD0,FF69B4,FFC1CC&text=Dewi%20Rahmawati&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
