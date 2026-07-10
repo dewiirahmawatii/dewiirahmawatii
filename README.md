@@ -17,7 +17,6 @@
 ```yaml
 👩 Name      : Dewi Rahmawati
 🎓 Major     : Informatics Student
-🌱 Learning  : Laravel • REST API • UI/UX
 💕 Passion   : Backend Development
 📍 Country   : Indonesia 🇮🇩
 ```
