@@ -15,7 +15,7 @@
 ## 🌷 About Me
 
 ```yaml
-👩 Name      : Dewi cantik
+👩 Name      : Dewi Rahmawati
 🎓 Major     : Informatics Student
 💕 Passion   : Backend Development
 📍 Country   : Indonesia 🇮🇩
