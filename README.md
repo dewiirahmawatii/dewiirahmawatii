@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Dewi%20Rahmawati&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# 🌸 Hi, I'm Dewi Rahmawati
+# 🌸 Hi, I'm Dewi Cantik
 
 ### 💗 Backend Developer • Informatics Student • Laravel Enthusiast
 
